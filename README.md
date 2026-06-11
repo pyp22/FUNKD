@@ -42,6 +42,12 @@ Interface  : TTY or nothing
 | Operating Systems | C++ · Python |
 | 3D Rendering | C++ · Python |
 
+## Languages (the spoken kind)
+
+- **Fluent** (speak & write) : Français · English · Español
+- **Reading / partial** : Brezhoneg (Breton) · Português · Italiano
+- **Native** : `0` and `1`
+
 ## Philosophy
 
 ```c
