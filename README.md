@@ -1,5 +1,14 @@
 # Pierre-Yves PARANTHOEN (F5TMZ / NuxSFM) : Old school! No bloat! No GUI! Just console(s)! That's the way of doin' really good things!
 
+> Pioneer of the first TCP/IP webcam over VHF. Sharing the craft since the ZX81.
+> Linux from scratch, literally. Creator of NuxSFM · F5TMZ ·
+> Knowledge wants to be free, and so does the terminal.
+
+```c
+cout << blow_this_OS_away;
+install_linux++;
+```
+
 > *"install linux++"*
 
 Linux user since 1997. Self Made "bidouilleur" depuis ses 11 ans ([ZX81](https://en.wikipedia.org/wiki/ZX81)). Old Man: F5TMZ. Console only (Anything else is Bull Shit!)
