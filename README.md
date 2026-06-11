@@ -1,7 +1,7 @@
 # Pierre-Yves PARANTHOEN (F5TMZ / NuxSFM) : Old school! No bloat! No GUI! Just console(s)! That's the way of doin' really good things!
 
-> Pioneer of the first TCP/IP webcam over VHF. Sharing the craft since the ZX81.
-> Linux from scratch, literally. Creator of NuxSFM · F5TMZ ·
+> Linux user & coder since kernel 0.01 (1991). Pioneer of the first TCP/IP webcam over VHF,
+> packet radio ham running JNOS/TNOS. Linux from scratch, literally. Creator of NuxSFM · F5TMZ ·
 > Knowledge wants to be free, and so does the terminal.
 
 ```c
@@ -11,7 +11,7 @@ install_linux++;
 
 > *"install linux++"*
 
-Linux user since 1997. Self Made "bidouilleur" depuis ses 11 ans ([ZX81](https://en.wikipedia.org/wiki/ZX81)). Old Man: F5TMZ. Console only (Anything else is Bull Shit!)
+Linux user & coder since kernel 0.01 (1991). Self Made "bidouilleur" depuis ses 11 ans ([ZX81](https://en.wikipedia.org/wiki/ZX81)). Old Man: F5TMZ. Console only (Anything else is Bull Shit!)
 
 ---
 
@@ -31,6 +31,7 @@ Interface  : TTY or nothing
 - **[Linux From Scratch](https://www.linuxfromscratch.org/)** — Contributor & developer
 - **[MythTV](https://www.mythtv.org/)** / **[VDR](https://www.tvdr.de/)** — Contributor & developer
 - **[OpenMVG](https://github.com/openMVG/openMVG)** — Early tester & feedback contributor
+- **[JNOS](https://www.langelaar.net/jnos2/) / [TNOS](https://www.tnos.net/)** — KA9Q-derived TCP/IP packet radio stacks, ham operator & tinkerer
 - **First TCP/IP Webcam over VHF at 1200 bauds** — Radio-amateur pioneer
 
 ## Interests
