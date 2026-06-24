@@ -1,8 +1,14 @@
-# Pierre-Yves PARANTHOEN (F5TMZ / NuxSFM) : Old school! No bloat! No GUI! Just console(s)! That's the way of doin' really good things!
+# Pierre-Yves PARANTHOEN
+### `F5TMZ` · `NuxSFM` — Old school. No bloat. No GUI. Just the terminal.
 
-> Linux user & coder since kernel 0.01 (1991). Pioneer of the first TCP/IP webcam over VHF,
-> packet radio ham running JNOS/TNOS. Linux from scratch, literally. Creator of NuxSFM · F5TMZ ·
-> Knowledge wants to be free, and so does the terminal.
+> Un gamin, un [ZX81](https://en.wikipedia.org/wiki/ZX81), et l'idée folle qu'une machine
+> pouvait faire *tout* ce qu'on osait lui demander. Quarante ans plus tard,
+> je n'ai jamais arrêté de bidouiller — et le terminal est toujours
+> la plus belle porte d'entrée vers l'aventure.
+
+Dev & utilisateur Linux depuis le **kernel 0.01 (1991)**. *Linux from scratch*, littéralement.
+Opérateur radio-amateur, pionnier de la première webcam TCP/IP sur VHF à 1200 bauds.
+Le savoir veut être libre — le terminal aussi.
 
 ```c
 cout << blow_this_OS_away;
@@ -10,8 +16,6 @@ install_linux++;
 ```
 
 > *"install linux++"*
-
-Linux user & coder since kernel 0.01 (1991). Self Made "bidouilleur" depuis ses 11 ans ([ZX81](https://en.wikipedia.org/wiki/ZX81)). Old Man: F5TMZ. Console only (Anything else is Bull Shit!)
 
 ---
 
@@ -42,13 +46,19 @@ Interface  : TTY or nothing
 | Operating Systems | C++ · Python |
 | 3D Rendering | C++ · Python |
 
-## Languages (the spoken kind)
+---
 
-- **Fluent** (speak & write) : Français · English · Español
-- **Reading / partial** : Brezhoneg (Breton) · Português · Italiano
-- **Native** : `0` and `1`
+## Au-delà du code
 
-## Philosophy
+**Radio-amateur** — `F5TMZ`. Packet radio, TCP/IP qui voyage par les ondes
+quand personne ne pensait que c'était possible. Le réseau avant le réseau.
+
+**Les langues** *(la version humaine)*
+- **Courant** (parlé & écrit) : Français · English · Español
+- **Lecture / partiel** : Brezhoneg (Breton) · Italiano
+- **Natif** : `0` et `1`
+
+**Philosophie** — pourquoi je fais ça depuis si longtemps :
 
 ```c
 while (memory_available) {
@@ -66,4 +76,20 @@ while (memory_microsofted) {
 
 ---
 
-`F5TMZ` · Old school · No bloat · No GUI · Just the terminal
+## Origin
+
+> Tout a commencé à 11 ans, devant un écran où clignotait un curseur.
+> Pas de mode d'emploi, pas de garde-fou — juste l'envie de comprendre
+> ce qu'il y avait derrière, et de le faire plier à ma volonté.
+>
+> Je n'en ai jamais fait mon métier. J'en ai fait mieux : un terrain de jeu
+> qui n'a jamais fermé. Le curseur clignote encore.
+
+<p align="center">
+  <img src="images/20260624_192255.jpg" alt="Ne pas déranger — un génie défie l'ordinateur" width="480"><br>
+  <sub><i>Sur la porte de mon shack depuis 35 ans.</i></sub>
+</p>
+
+---
+
+`F5TMZ` · Old school · No bloat · No GUI · Just the terminal · *Knowledge wants to be free — and so does the terminal.*
