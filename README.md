@@ -1,11 +1,6 @@
 # Pierre-Yves PARANTHOEN
 ### `F5TMZ` · `NuxSFM` — Old school. No bloat. No GUI. Just the terminal.
 
-> Un gamin, un [ZX81](https://en.wikipedia.org/wiki/ZX81), et l'idée folle qu'une machine
-> pouvait faire *tout* ce qu'on osait lui demander. Quarante ans plus tard,
-> je n'ai jamais arrêté de bidouiller — et le terminal est toujours
-> la plus belle porte d'entrée vers l'aventure.
-
 Dev & utilisateur Linux depuis le **kernel 0.01 (1991)**. *Linux from scratch*, littéralement.
 Opérateur radio-amateur, pionnier de la première webcam TCP/IP sur VHF à 1200 bauds.
 Le savoir veut être libre — le terminal aussi.
@@ -16,6 +11,25 @@ install_linux++;
 ```
 
 > *"install linux++"*
+
+---
+
+## Philosophie
+
+```c
+while (memory_available) {
+    eat_major_portion_of_memory(no_real_reason);
+    if (feel_like_it)
+        make_user_THINK(this_is_an_OS);
+    gates_bank_balance++;
+}
+
+while (memory_microsofted) {
+    system_response;
+    cout << blow_this_OS_away;
+    cout << install_linux++;
+}
+```
 
 ---
 
