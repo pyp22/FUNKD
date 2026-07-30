@@ -5,10 +5,6 @@ Dev & utilisateur Linux depuis le **kernel 0.01 (1991)**. *Linux from scratch*, 
 Opérateur radio-amateur, pionnier de la première webcam TCP/IP sur VHF à 1200 bauds.
 Le savoir veut être libre — le terminal aussi.
 
-```c
-cout << blow_Windows_OS_away;
-install_linux++;
-```
 ## Philosophie
 
 ```c
