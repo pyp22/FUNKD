@@ -6,14 +6,9 @@ Opérateur radio-amateur, pionnier de la première webcam TCP/IP sur VHF à 1200
 Le savoir veut être libre — le terminal aussi.
 
 ```c
-cout << blow_this_OS_away;
+cout << blow_Windows_OS_away;
 install_linux++;
 ```
-
-> *"install linux++"*
-
----
-
 ## Philosophie
 
 ```c
